@@ -1,2 +1,2 @@
 # Process-Mining
-Containts algorithms for process mining
+Contains algorithms for process mining
