@@ -215,6 +215,7 @@ void Petri::printFootprints(){
     }
     cout << endl;
     for(QMap<QString, QMap<QString, Relation> >::iterator it = _footprints.begin(); it != _footprints.end(); it++){
+       cout << it.key().toStdString() << " | ";
        for(QMap<QString, Relation>::iterator itt = it.value().begin(); itt != it.value().end(); itt++){
            switch(itt.value()){
             case DIFFER:

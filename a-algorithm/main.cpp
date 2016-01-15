@@ -1,8 +1,5 @@
-#include <iostream>
 #include <QtCore>
 #include "petri.h"
-
-using namespace std;
 
 void loadCsv(QList<QStringList > * sequences, QString fileName){
    sequences->clear();

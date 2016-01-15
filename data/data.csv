@@ -1,11 +1,8 @@
-Tourner,Fraiser,Molleter,Tronconner,Laver,Traiter la surface,Finaliser
-Tourner,Fraiser,Molleter,Tronconner,Laver,Traiter la surface,Finaliser
-Tourner,Fraiser,Molleter,Tronconner,Laver,Traiter la surface,Finaliser
-Fraiser,Molleter,Tronconner,Laver,Finaliser,,
-Tourner,Laver,Finaliser,,,,
-Tourner,Laver,Traiter la surface,Finaliser,,,
-Fraiser,Laver,Traiter la surface,Finaliser,,,
-Fraiser,Molleter,Tronconner,Laver,Finaliser,,
-Tourner,Molleter,Tronconner,Laver,Traiter la surface,Finaliser,
-Tourner,Fraiser,Laver,Finaliser,,,
-Tourner,Fraiser,Laver,Traiter la surface,Finaliser,,
+A,B,C,D,,,,,,
+A,B,C,B,C,D,,,,
+A,B,C,B,C,B,C,D,,
+A,B,C,D,,,,,,
+A,B,C,B,C,D,,,,
+A,B,C,B,C,B,C,B,C,D
+A,B,C,C,B,C,B,C,D,
+A,B,C,B,C,C,B,C,D,
